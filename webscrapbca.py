@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 info_login = {
-    'username': 'sinjirus1810',
-    'password': '155018'
+    'username': '<user ID klik bca anda>',
+    'password': '<pin klik bca anda>'
 }
 
 #xpath html yang sudah di inspek
