@@ -49,4 +49,4 @@ print("SALDO ANDA : Rp. ",saldo.text)
 
 #tutup browser
 #ActionChains(br).key_down(Keys.CONTROL).key_down(Keys.SHIFT).send_keys('w').key_up(Keys.CONTROL).key_up(Keys.SHIFT).perform()
-br.find_element_by_tag_name('body').send_keys(Keys.CONTROL + Keys.SHIFT + "w")
+br.quit()
